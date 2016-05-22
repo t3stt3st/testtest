@@ -1,0 +1,3 @@
+Sun, 22 May 2016 23:39:01 spider_ph.py[line:264] DEBUG [+] Crawl cgi:file:///Users/taerg/Desktop/xsstest/1.html post: depth:1 maxlin:1000 regex:悦悦
+Sun, 22 May 2016 23:39:01 spider_ph.py[line:266] DEBUG [+] Depth:1
+Sun, 22 May 2016 23:39:01 spider_ph.py[line:267] DEBUG [+] Maxlink:1000
