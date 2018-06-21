@@ -327,5 +327,5 @@ if __name__ == '__main__':
 	logging.getLogger('').addHandler(console)
 	pid = 'pid'
 	url = 'file:///Users/taerg/Desktop/xsstest/1.html'
-	cookie = '14ee84b7dda27008a646814c0fc5a2e4__typecho_uid=1; 14ee84b7dda27008a646814c0fc5a2e4__typecho_authCode=%24T%24mJByrH8u1e4c2638462094896ab880f771589dea1; PHPSESSID=6djhmdcm1imrcb26ocvsj006j7; CNZZDATA1257346756=1173770929-1462006791-%7C1462006791'
+	cookie = ''
 	the_main(pid, url, cookie)
